@@ -117,23 +117,17 @@ Figura 10 - Tabela de empréstimo de materiais por categoria e por mês.
 
 ## 5.1. Associação de comandos SQL com relatórios analíticos
 
-Nome do Relatório Analítico
-
-Comando SQL-DML (SELECT)
-Empréstimos de materiais por categoria e por mês.
-select material.categoria, count(emprestimo.id_emprestimo)
-from material, emprestimo
-where material.id_emprestimo = emprestimo.id_emprestimo
-group by material.categoria, month(emprestimo.data_inicio);
- 
-Material cadastrado por categoria.
-select categoria, count(id_material)
-from material
-group by categoria;
+| Nome do Relatório                                     | Comando SQL-DML (SELECT)   |
+|  :------------------------:                           |  :-----------------------------------------------------------------------------------------------: |
+| Empréstimos de materiais por categoria e por mês.     |select material.categoria, count(emprestimo.id_emprestimo) <br> from material, emprestimo <br> where material.id_emprestimo = emprestimo.id_emprestimo <br> group by material.categoria, month(emprestimo.data_inicio);   |
+| Material cadastrado por categoria.                    | select categoria, count(id_material) <br> from material <br> group by categoria;  |
 
 
 ## 6. Indicadores de desempenho
 
+| Indicador               | Objetivo                   | Descrição | Fórmula        | Fontes de dados          | Perspectiva
+|  :-----------------:    |  :-----------------------: |  :-----------------------: |:-----------------------: |:-----------------------: |
+|Taxa de uso do acervo.   | Avaliar quantitativa mente o uso dos materiais do acervo da biblioteca.  | É o número total de empréstimos (E) dos materiais do acervo durante o período de um ano, dividido pelo número total de materiais do acervo (MA). | E / MA   | Tabela de empréstim o e material.  | Processos internos.  |
 
 
 
