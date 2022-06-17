@@ -6,9 +6,11 @@ Os principais documentos a serem produzidos são:
 
 
 * `script_de_banco.sql`
-	* Script de criação do banco de dados.
+<br> ![Esboço Consultas SQL - LibraryTech.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2022-1-e2-proj-bpm-t1-librarytech-1/files/8927021/Esboco.Consultas.SQL.-.LibraryTech.pdf)
+
 
 * `diagrama entidade relacionamento`
-	* Apresentar o DER em imagem vetorial para eviar perda de qualidade com renderização em resolução específica.
+	![Modelo Relacional LibraryTech v_2 drawio](https://user-images.githubusercontent.com/89880127/173990005-e816578c-c019-466d-8dff-5613426e2cef.png)
 
-Demais artefatos que julgar pertinentes.
+* `modelo relacional`
+![Modelo Relacional LibraryTech v_2 drawio](https://user-images.githubusercontent.com/89880127/173990005-e816578c-c019-466d-8dff-5613426e2cef.png)
