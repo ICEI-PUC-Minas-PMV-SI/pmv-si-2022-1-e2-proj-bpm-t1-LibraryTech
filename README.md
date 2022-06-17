@@ -1,10 +1,10 @@
 # LibraryTech
 
-CURSO: Sistemas de Informação
+`CURSO: Sistemas de Informação`
 
-DISCIPLINA: Projeto - Processos de Negócios
+`DISCIPLINA: Projeto - Processos de Negócios`
 
-SEMESTRE: 1º
+`SEMESTRE: 1º`
 
 Projeto acadêmico do 2º período, realizado no primeiro semestre de 2022.
 
