@@ -6,9 +6,9 @@
 
 `SEMESTRE: 1º`
 
-`Projeto acadêmico do 2º período, realizado no primeiro semestre de 2022.
+`Projeto acadêmico do 2º período, realizado no primeiro semestre de 2022.`
 
-Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)
+`Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)
 Belo Horizonte – MG – Brasil`
 
 ### Equipe
