@@ -20,7 +20,7 @@ Com as constantes transformações sociais, econômicas e tecnológicas da atual
 * Ana Laura Souza Rosa da Silva
 * Fábio Rezende Dias Silva
 * Geocacio Viviano Nascimento de Souza
-* Guilherme Lima de Freitas
+* Guilherme Lima 
 * Marcos Paulo Silva Costa
 
 ## Professor
