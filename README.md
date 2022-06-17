@@ -16,12 +16,12 @@ Com as constantes transformações sociais, econômicas e tecnológicas da atual
 
 ## Integrantes
 
-* Alysson Roberto Cordeiro
-* Ana Laura Souza Rosa da Silva
-* Fábio Rezende Dias Silva
-* Geocacio Viviano Nascimento de Souza
-* Guilherme Lima de Freitas
-* Marcos Paulo Silva Costa
+* [Alysson Roberto Cordeiro](https://github.com/AlyRobCor-05)
+* [Ana Laura Souza Rosa da Silva](https://github.com/analaura21)
+* [Fábio Rezende Dias Silva](https://github.com/fabiodias27)
+* [Geocacio Viviano Nascimento de Souza](https://github.com/vivianogeocacio)
+* [Guilherme Lima de Freitas](https://github.com/guifreitas27)
+* [Marcos Paulo Silva Costa](https://github.com/MarcosPaulo62)
 
 ## Professor
 
