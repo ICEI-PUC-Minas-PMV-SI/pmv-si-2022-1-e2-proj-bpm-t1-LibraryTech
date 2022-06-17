@@ -4,11 +4,13 @@
 
 `DISCIPLINA: Projeto - Processos de Negócios`
 
-`SEMESTRE: 1º`
+`SEMESTRE: 2º`
 
-`Projeto acadêmico do 2º período, realizado no primeiro semestre de 2022.`
+`Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)` 
 
-`Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS) Belo Horizonte – MG – Brasil`
+`Belo Horizonte – MG – Brasil`
+
+`2022`
 
 Com as constantes transformações sociais, econômicas e tecnológicas da atualidade, as empresas buscam a modificação dos seus conceitos operacionais e produtivos. Essas modificações trazem a flexibilidade dos meios de serviço, redução de gastos e tempo. Com o propósito de facilitar ações rotineiras de uma biblioteca pública com foco em materiais didáticos para concursos, surge o LibraryTech, um sistema informatizado que realiza cadastro de materiais, empréstimos e devoluções de itens para gerenciar o funcionamento da biblioteca. Dentre os resultados relevantes obtidos, podemos citar a diminuição da perda de dados de empréstimo e de cadastro de material, diminuição do extravio de material do acervo e do acúmulo de papel.
 
