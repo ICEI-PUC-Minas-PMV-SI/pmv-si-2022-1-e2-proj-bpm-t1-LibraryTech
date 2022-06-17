@@ -125,12 +125,11 @@ Figura 10 - Tabela de empréstimo de materiais por categoria e por mês.
 
 ## 6. Indicadores de desempenho
 
-| Indicador               | Objetivo                   | Descrição | Fórmula        | Fontes de dados          | Perspectiva
-|  :-----------------:    |  :-----------------------: |  :-----------------------: |:-----------------------: |:-----------------------: |
-|Taxa de uso do acervo.   | Avaliar quantitativa mente o uso dos materiais do acervo da biblioteca.  | É o número total de empréstimos (E) dos materiais do acervo durante o período de um ano, dividido pelo número total de materiais do acervo (MA). | E / MA   | Tabela de empréstim o e material.  | Processos internos.  |
 
-
-
+| Indicador  | Objetivo  | Descrição  | Fórmula  | Fontes  de dados  | Perspectiva  |
+| :--------: | :-------: | :--------: | :------: | :---------------: | :--------:   |
+| Taxa de uso do acervo. | Avaliar quantitativa mente o uso dos materiais do acervo da biblioteca. | É o número total de empréstimos (E) dos materiais do acervo durante o período de um ano, dividido pelo número total de materiais do acervo (MA). | E / MA  | Tabela de empréstim o e material. | Processos internos.  |
+| Empréstimos por usuário. | Avaliar a taxa de utilização dos materiais da biblioteca pelo público alvo. | É o número total de empréstimos (E) no ano dividido pela quantidade de usuários (U) da biblioteca. | E / U | Tabela de empréstimo e usuário. | Processos internos. |
 
 ## 7. Conclusão
 O presente trabalho teve como propósito simplificar o funcionamento de uma biblioteca, a partir da implementação de um sistema informatizado que realiza cadastro de materiais, empréstimos e devoluções de itens, permitindo melhor armazenamento de informações, agilizando as tarefas e evitando a perda de dados. 
