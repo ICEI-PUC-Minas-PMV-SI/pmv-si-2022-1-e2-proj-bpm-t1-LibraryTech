@@ -10,7 +10,7 @@ Os principais documentos a serem produzidos são:
 
 
 * `diagrama entidade relacionamento`
-	![Modelo Relacional LibraryTech v_2 drawio](https://user-images.githubusercontent.com/89880127/173990005-e816578c-c019-466d-8dff-5613426e2cef.png)
+	![der](https://user-images.githubusercontent.com/89880127/173991535-cfebfba0-b8df-48b1-bbd7-4c808ccefee1.png)
 
 * `modelo relacional`
 ![Modelo Relacional LibraryTech v_2 drawio](https://user-images.githubusercontent.com/89880127/173990005-e816578c-c019-466d-8dff-5613426e2cef.png)
