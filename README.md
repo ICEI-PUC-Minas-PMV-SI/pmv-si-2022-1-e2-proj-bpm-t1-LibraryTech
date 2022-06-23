@@ -21,7 +21,7 @@ Com as constantes transformações sociais, econômicas e tecnológicas da atual
 * [Fábio Rezende Dias Silva](https://github.com/fabiodias27)
 * [Geocacio Viviano Nascimento de Souza](https://github.com/vivianogeocacio)
 * [Guilherme Lima de Freitas](https://github.com/guifreitas27)
-* [Marcos Paulo Silva Costa](https://github.com/MarcosPaulo62)
+* [Marcos Paulo Silva Costa](https://github.com/MarcosPaulo62) 
 
 ## Professor
 
